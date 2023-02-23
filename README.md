@@ -7,6 +7,7 @@
   > - vinayakporwal5522@gmail.com
   > - https://vinayakporwal.netlify.app 
   > - https://instagram.com/vinayak_porwal
+  > - https://www.linkedin.com/in/vinayakporwal
 <!---
 VinayakPorwal/VinayakPorwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
